@@ -1,2 +1,2 @@
-# NAD-table for difference operator
+# NAD-table of operator
 forward , backward , divided difference operator table
